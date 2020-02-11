@@ -18,15 +18,6 @@ https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
 © 2016 Randal S. Olson
 Some of these materials are based on the video course I developed with O'Reilly called [Data Visualization Basics with Python](http://shop.oreilly.com/product/0636920046592.do).
 
-## Course Prerequisites
-
-I designed this course with the expectation that you will have a basic working knowledge of Python, [pandas](http://pandas.pydata.org/), and the [Jupyter Notebook](http://jupyter.org/). If you're unfamiliar with any of these topics, I have provided links to free online learning materials for them below.
-
-**Python** has many excellent tutorials and books to learn from, many of which are listed in the [/r/LearnPython wiki](https://www.reddit.com/r/learnpython/wiki/index).
-
-**pandas** has [several tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) covering its myriad features.
-
-The **Jupyter Notebook** has [thorough documentation](http://jupyter.readthedocs.org/en/latest/index.html) for how to install and use it.
 
 ## Table of Contents
 
