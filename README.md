@@ -1,4 +1,4 @@
-********************Link Added by Shariq***************************************************##
+##********************Link Added by Shariq***************************************************##
 
 
 **Link for subplot**
@@ -12,12 +12,8 @@ https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
 
 
 
-********************************************##******************************************************************************
+##********************************************##*************************************************************************
 
-
-![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
-![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
-![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 # Data visualization with Python course
 
@@ -49,28 +45,3 @@ This section covers the basics of data visualization and design, such as choosin
 This section dives into coding data visualizations with Python, in particular with the [matplotlib library](http://matplotlib.org/). You will learn how to code bar charts, line charts, scatter plots, and many more basic chart types.
 
 *More sections are currently being developed, including sections on statistical visualization with [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) and interactive visualization with [Bokeh](http://bokeh.pydata.org/).*
-
-## Contributing
-
-If you would like to contribute to this course, please [file an issue](https://github.com/rhiever/python-data-visualization-course/issues) to discuss what you'd like to contribute. We're generally open to contributions, but we also have a specific scope and purpose for this course that we would like to stick to.
-
-## License and Usage Terms
-
-### Instructional Material
-
-All instructional material in this repository is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-You are free to:
-
-* **Share**—copy and redistribute the material in any medium or format
-* **Adapt**—remix, transform, and build upon the material
-
-for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-
-
-
-
-
