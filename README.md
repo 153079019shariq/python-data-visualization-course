@@ -1,3 +1,18 @@
+********************Link Added by Shariq********************************************************************************
+**Link for subplot**
+https://stackoverflow.com/questions/31726643/how-do-i-get-multiple-subplots-in-matplotlib
+
+**Link for heatmap**
+https://likegeeks.com/seaborn-heatmap-tutorial/
+
+**Further example for data visualization**
+https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+
+
+
+********************************************##******************************************************************************
+
+
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
@@ -5,9 +20,6 @@
 # Data visualization with Python course
 
 © 2016 Randal S. Olson
-
-In this repository, you will find course materials for teaching data visualization with Python. I'll be developing these teaching materials over time to provide a hands-on course that will take you from beginner to intermediate level of programming data visualizations.
-
 Some of these materials are based on the video course I developed with O'Reilly called [Data Visualization Basics with Python](http://shop.oreilly.com/product/0636920046592.do).
 
 ## Course Prerequisites
@@ -54,13 +66,6 @@ You are free to:
 for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-
-**Link for heatmap**
-https://likegeeks.com/seaborn-heatmap-tutorial/
-
-**Further example for data visualization**
-https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
 
 
 
