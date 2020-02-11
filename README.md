@@ -1,4 +1,4 @@
-## Link Added by Shariq***************************************************##
+# Link Added by Shariq***************************************************##
 
 
 **Link for subplot**
@@ -11,8 +11,6 @@ https://likegeeks.com/seaborn-heatmap-tutorial/
 https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
 
 
-
-##********************************************##*************************************************************************
 
 
 # Data visualization with Python course
